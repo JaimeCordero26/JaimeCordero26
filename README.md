@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SacorTech<br>👯 I’m looking to colaborate with new people<br>🌱 I’m currently learning TI
+🔭 I’m currently working on SacorTech<br>👯 I’m looking to colaborate with new people<br>🌱 I’m currently learning IT
 
 
 # 💻 Tech Stack:
