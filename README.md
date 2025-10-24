@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="1000" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on SacorTech<br>👯 I’m looking to colaborate with new people<br>🌱 I’m currently learning IT
 
