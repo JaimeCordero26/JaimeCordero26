@@ -67,18 +67,24 @@
 
 
 # 📊 GitHub Stats:
-![https://github-readme-stats.vercel.app/api?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![https://nirzak-streak-stats.vercel.app/?user=JaimeCordero26&theme=dark&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=JaimeCordero26&theme=dark&hide_border=false)<br/>
-![https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![JaimeCordero26's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JaimeCordero26&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
-![https://github-profile-trophy.vercel.app/?username=JaimeCordero26&theme=radical&no-frame=false&no-bg=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=JaimeCordero26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=JaimeCordero26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
-![https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
-![https://github-contributor-stats.vercel.app/api?username=JaimeCordero26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=JaimeCordero26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=JaimeCordero26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JaimeCordero26&icon=2&color=11)](https://visitcount.itsvg.in)
