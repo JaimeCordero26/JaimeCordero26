@@ -1,13 +1,10 @@
-Aquí va tu README **completo**, con todo lo que hemos ajustado (stack organizado y secciones de stats corregidas):
-
-```markdown
 <div align="center">
   <img width="" height="" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 </div>
 
 # 💫 About Me:
 🔭 I’m currently working on SacorTech<br>
-👯 I’m looking to collaborate with new people<br>
+👯 I’m looking to colaborate with new people<br>
 🌱 I’m currently learning IT
 
 
@@ -70,29 +67,20 @@ Aquí va tu README **completo**, con todo lo que hemos ajustado (stack organizad
 
 
 # 📊 GitHub Stats:
-![JaimeCordero26's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JaimeCordero26&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JaimeCordero26&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCordero26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=JaimeCordero26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JaimeCordero26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=JaimeCordero26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=JaimeCordero26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JaimeCordero26&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JaimeCordero26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-```
-
-Si luego querés, pulimos el texto del *About Me* para que diga claro que sos **dev + sysadmin en Linux/Arch + servidores**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
