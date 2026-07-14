@@ -8,8 +8,7 @@
 ![Location](https://img.shields.io/badge/San%20Carlos-Costa%20Rica-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sacortech.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sacortech.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tu-usuario-linkedin])
-[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tu-correo]@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alecordero2610@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeCordero26)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JaimeCordero26&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
@@ -29,7 +28,9 @@ location: "San Carlos, Costa Rica"
 focus: ["Full Stack Development", "Systems & Infrastructure", "Hardware Repair", "AI-assisted tooling"]
 ```
 
-Estudiante de Ingeniería en Software en la Universidad Técnica Nacional y cofundador de **SacorTech**, una empresa de servicios tecnológicos enfocada en el mercado de San Carlos, Costa Rica. Combino desarrollo full stack (web, móvil, bots con IA) con experiencia práctica a nivel de hardware — desde reparación de impresoras y consolas hasta diagnóstico de placas — y una base sólida en infraestructura Linux/NixOS, contenedores y bases de datos.
+Estudiante de Ingeniería en Software en la Universidad Técnica Nacional y cofundador de **SacorTech**, una empresa de servicios tecnológicos enfocada en el mercado de San Carlos, Costa Rica. Combino desarrollo full stack (web, móvil, bots con IA) con experiencia práctica a nivel de hardware — desde reparación de impresoras y consolas hasta diagnóstico de placas — y una base sólida en infraestructura Linux.
+
+Vengo del mundo **Arch Linux** (uno de mis puntos más fuertes) y hoy trabajo principalmente en **NixOS**, además de montar y administrar servidores sobre **Ubuntu/Debian**. También manejo redes y equipos **Cisco**.
 
 **Open To:**
 - 🤝 Colaboración en proyectos de software y automatización con IA
@@ -40,35 +41,63 @@ Estudiante de Ingeniería en Software en la Universidad Técnica Nacional y cofu
 
 ## 🧠 Tech Stack
 
+**Operating Systems & Networking**
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
 **Languages**
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Backend & Databases**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-EBB304?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+**Design**
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B)
 
 ---
 
@@ -78,6 +107,8 @@ Estudiante de Ingeniería en Software en la Universidad Técnica Nacional y cofu
 |---|---|---|
 | AI-assisted development | ⭐⭐⭐⭐☆ | Integración de Google Gemini en aplicaciones (INSBoyHelper), bots de IA para SacorTech |
 | Infraestructura & DevOps | ⭐⭐⭐⭐⭐ | NixOS declarativo (flakes), Docker Compose, replicación PostgreSQL |
+| Linux & Servidores | ⭐⭐⭐⭐⭐ | Arch Linux (uno de mis fuertes), despliegue de servidores en Ubuntu/Debian |
+| Redes | ⭐⭐⭐⭐☆ | Configuración y administración de equipos Cisco |
 | Full Stack Development | ⭐⭐⭐⭐☆ | React/Vite/Tailwind + FastAPI/SQLAlchemy, Next.js/OpenNext en Cloudflare Workers |
 | Hardware & Diagnóstico | ⭐⭐⭐⭐⭐ | Reparación de impresoras Epson, consolas, diagnóstico a nivel de placa |
 
@@ -97,7 +128,6 @@ Sistema web de recursos humanos y planilla que integra la API del INS de Costa R
 | Escala | Esquema normalizado de 34 tablas |
 | Documentación | API REST documentada, diagramas UML, historias de usuario |
 | Impacto | Entregables I y II completos para el curso ITI-823 |
-| Repositorio | `[agregar-link-repo]` |
 
 </details>
 
@@ -113,7 +143,6 @@ Sitio de portafolio para un cliente del sector construcción, con panel administ
 | Escala | 64+ fotos de proyectos organizadas por categoría |
 | Seguridad | Autenticación de administrador vía Supabase |
 | Impacto | Portafolio en producción para cliente real de SacorTech |
-| Repositorio | `[agregar-link-repo]` |
 
 </details>
 
@@ -142,7 +171,6 @@ Proyecto personal de desarrollo de videojuegos con un personaje protagonista de 
 |---|---|
 | Tipo | Juego 2D, proyecto personal |
 | Estado | En desarrollo activo |
-| Repositorio | `[agregar-link-repo]` |
 
 </details>
 
@@ -175,27 +203,6 @@ Cofundé y opero SacorTech, un negocio de servicios tecnológicos en San Carlos,
 | SacorTech | Negocio propio en operación con clientes reales |
 
 </div>
-
----
-
-## 📜 Certifications
-
-**AWS**
-`[agregar certificaciones AWS]`
-
-**Oracle**
-`[agregar certificaciones Oracle]`
-
-**Cisco**
-`[agregar certificaciones Cisco]`
-
-> Reemplaza esta sección con tus certificaciones reales y sus badges correspondientes.
-
----
-
-## 💻 Coding Profiles
-
-`[agregar usuario LeetCode]` · `[agregar usuario GeeksforGeeks]` · `[agregar usuario HackerRank]` · `[agregar usuario CodeChef]`
 
 ---
 
@@ -263,10 +270,17 @@ open_to:
 
 ## 📬 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tu-correo]@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tu-usuario-linkedin])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alecordero2610@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeCordero26)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://sacortech.xyz)
+
+---
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
