@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:4C1D95,100:6D28D9&height=220&section=header&text=Alejandro%20Cordero&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Co-Founder%20@%20SacorTech&descAlignY=58&descAlign=50)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Co-Founder+%40+SacorTech;Full+Stack+%2B+Systems+%2B+Hardware;Building+with+NixOS+%2B+Docker+%2B+Postgres" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Co-Founder+%40+SacorTech;Full+Stack+%2B+Systems+%2B+Hardware;Building+with+NixOS+%2B+Cloudflare+%2B+Postgres" alt="Typing SVG" />
 
 ![Universidad Técnica Nacional](https://img.shields.io/badge/Universidad%20Técnica%20Nacional-Software%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/San%20Carlos-Costa%20Rica-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -19,7 +19,7 @@
 
 ---
 
-## 💜 About Me
+## About Me
 
 ```yaml
 name: "Alejandro Cordero"
@@ -33,13 +33,13 @@ Estudiante de Ingeniería en Software en la Universidad Técnica Nacional y cofu
 Vengo del mundo **Arch Linux** (uno de mis puntos más fuertes) y hoy trabajo principalmente en **NixOS**, además de montar y administrar servidores sobre **Ubuntu/Debian**. También manejo redes y equipos **Cisco**.
 
 **Open To:**
-- 🤝 Colaboración en proyectos de software y automatización con IA
-- 💼 Proyectos freelance de desarrollo web/móvil y soporte técnico
-- 📚 Intercambio de conocimiento en Linux, DevOps y arquitectura de sistemas
+- Colaboración en proyectos de software y automatización con IA
+- Proyectos freelance de desarrollo web/móvil y soporte técnico
+- Intercambio de conocimiento en Linux, DevOps y arquitectura de sistemas
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Operating Systems & Networking**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
@@ -55,6 +55,7 @@ Vengo del mundo **Arch Linux** (uno de mis puntos más fuertes) y hoy trabajo pr
 **Languages**
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
@@ -82,16 +83,25 @@ Vengo del mundo **Arch Linux** (uno de mis puntos más fuertes) y hoy trabajo pr
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 **Cloud, DevOps & Tooling**
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/D1-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare KV](https://img.shields.io/badge/KV-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+**AI & APIs**
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 **Design**
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
@@ -101,53 +111,28 @@ Vengo del mundo **Arch Linux** (uno de mis puntos más fuertes) y hoy trabajo pr
 
 ---
 
-## 🤖 AI / Systems Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI-assisted development | ⭐⭐⭐⭐☆ | Integración de Google Gemini en aplicaciones (INSBoyHelper), bots de IA para SacorTech |
-| Infraestructura & DevOps | ⭐⭐⭐⭐⭐ | NixOS declarativo (flakes), Docker Compose, replicación PostgreSQL |
-| Linux & Servidores | ⭐⭐⭐⭐⭐ | Arch Linux (uno de mis fuertes), despliegue de servidores en Ubuntu/Debian |
-| Redes | ⭐⭐⭐⭐☆ | Configuración y administración de equipos Cisco |
-| Full Stack Development | ⭐⭐⭐⭐☆ | React/Vite/Tailwind + FastAPI/SQLAlchemy, Next.js/OpenNext en Cloudflare Workers |
-| Hardware & Diagnóstico | ⭐⭐⭐⭐⭐ | Reparación de impresoras Epson, consolas, diagnóstico a nivel de placa |
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>INSBoyHelper — Sistema HR/Payroll con integración INS</b></summary>
+<summary><b>AssistCor — Sistema RRHH con IA</b></summary>
 <br>
 
-Sistema web de recursos humanos y planilla que integra la API del INS de Costa Rica, desarrollado como proyecto universitario junto a Sebastián Alpízar.
+Plataforma completa de Recursos Humanos para Servicios Constructivos y Mobaz, reescrita de cero en Cloudflare Workers. Gestión de 714 empleados, planilla bisemanal, vacaciones, documentos (PSG en PDF), integración con Google Drive, API del INS y asistente de IA con Gemini.
 
 | Aspecto | Detalle |
 |---|---|
-| Stack | React + Vite + Tailwind, FastAPI, SQLAlchemy, PostgreSQL/SQLite, Google Gemini |
-| Escala | Esquema normalizado de 34 tablas |
-| Documentación | API REST documentada, diagramas UML, historias de usuario |
-| Impacto | Entregables I y II completos para el curso ITI-823 |
+| Stack | Next.js 15 + React 19 + TypeScript, Cloudflare Workers, D1 (SQLite), R2, KV |
+| Backend | Drizzle ORM, Zod (validación), pdf-lib (PSG), SheetJS (Excel) |
+| IA | Gemini REST + function calling (consultas autónomas a la BD) |
+| Datos | 714 empleados, 25 tablas normalizadas, 5151 registros de histórico |
+| Integraciones | Google Drive, API INS, auditoría completa, rate limit en edge |
+| Pruebas | Suite de 56 checks, carga hasta 100 concurrentes sin errores |
+| Impacto | Sistema en producción para dos empresas reales |
 
 </details>
 
 <details>
-<summary><b>Mobaz — Portafolio web para empresa constructora</b></summary>
-<br>
-
-Sitio de portafolio para un cliente del sector construcción, con panel administrativo y gestión de imágenes en la nube.
-
-| Aspecto | Detalle |
-|---|---|
-| Stack | Next.js / OpenNext, Cloudflare Workers, Cloudflare R2, Supabase Auth |
-| Escala | 64+ fotos de proyectos organizadas por categoría |
-| Seguridad | Autenticación de administrador vía Supabase |
-| Impacto | Portafolio en producción para cliente real de SacorTech |
-
-</details>
-
-<details>
-<summary><b>SacorTech — Servicios tecnológicos</b></summary>
+<summary><b>SacorTech — Servicios Tecnológicos</b></summary>
 <br>
 
 Empresa cofundada enfocada en desarrollo de software, bots de IA, reparación de hardware y optimización de sistemas para el mercado de San Carlos, Costa Rica.
@@ -156,8 +141,37 @@ Empresa cofundada enfocada en desarrollo de software, bots de IA, reparación de
 |---|---|
 | Stack | React/Next.js, Cloudflare, Vercel, Hostinger DNS |
 | Servicios | Desarrollo web/móvil, bots de IA, reparación de hardware, mantenimiento de consolas |
-| Impacto | Negocio activo con clientes reales |
+| Clientes | Activos con proyectos en producción |
 | Sitio | [sacortech.xyz](https://sacortech.xyz) |
+
+</details>
+
+<details>
+<summary><b>Mobaz — Portafolio Web</b></summary>
+<br>
+
+Sitio de portafolio para cliente del sector construcción, con panel administrativo y gestión de imágenes en la nube.
+
+| Aspecto | Detalle |
+|---|---|
+| Stack | Next.js / OpenNext, Cloudflare Workers, Cloudflare R2, Supabase Auth |
+| Galería | 64+ fotos de proyectos organizadas por categoría |
+| Seguridad | Autenticación de administrador vía Supabase |
+| Impacto | Portafolio en producción para cliente real de SacorTech |
+
+</details>
+
+<details>
+<summary><b>INSBoyHelper — Sistema HR/Payroll (Anterior)</b></summary>
+<br>
+
+Sistema web de recursos humanos y planilla que integra la API del INS de Costa Rica. Proyecto universitario que sirvió como base para la reescritura en AssistCor.
+
+| Aspecto | Detalle |
+|---|---|
+| Stack | React + Vite + Tailwind, FastAPI, SQLAlchemy, PostgreSQL/SQLite |
+| Esquema | 34 tablas normalizadas |
+| Impacto | Proyecto universitario completo (ITI-823) |
 
 </details>
 
@@ -176,7 +190,7 @@ Proyecto personal de desarrollo de videojuegos con un personaje protagonista de 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Co-Founder & Full Stack Developer** — SacorTech
 *Presente*
@@ -192,21 +206,7 @@ Cofundé y opero SacorTech, un negocio de servicios tecnológicos en San Carlos,
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Reconocimiento | Detalle |
-|---|---|
-| Proyecto ITI-823 | Sistema completo INSBoyHelper con integración a API gubernamental |
-| Laboratorio PostgreSQL | Replicación streaming con Docker Compose documentada de principio a fin |
-| SacorTech | Negocio propio en operación con clientes reales |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -219,17 +219,21 @@ Cofundé y opero SacorTech, un negocio de servicios tecnológicos en San Carlos,
 
 ---
 
-## 🏅 Trophies
+## Notable Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JaimeCordero26&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8)
+| Logro | Detalle |
+|---|---|
+| **AssistCor** | Sistema RRHH con 714 empleados en Cloudflare Workers + Gemini IA |
+| **Mobaz** | Portafolio web en producción con 64+ imágenes en R2 |
+| **SacorTech** | Negocio propio operando con clientes reales en Costa Rica |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -239,36 +243,29 @@ Cofundé y opero SacorTech, un negocio de servicios tecnológicos en San Carlos,
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/JaimeCordero26/JaimeCordero26/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
   - "Infraestructura NixOS declarativa"
   - "Seguridad de la información (ISO 27001)"
+  - "Edge computing y edge databases"
 building:
-  - "Mobaz — portafolio web para cliente"
+  - "Proyectos con Cloudflare Workers"
   - "Cocroatach — juego 2D"
 exploring:
   - "Reparación de electrónica a nivel de placa (BGA, EC/KBC)"
   - "Facturación electrónica Hacienda Costa Rica (TRIBU-CR)"
+  - "Optimizaciones de base de datos en edge"
 open_to:
   - "Colaboraciones en proyectos de software"
   - "Proyectos freelance"
+  - "Mentoreo en desarrollo full stack y DevOps"
 ```
 
 ---
 
-## 📬 Connect
+## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alecordero2610@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeCordero26)
