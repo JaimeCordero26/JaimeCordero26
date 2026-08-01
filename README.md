@@ -23,7 +23,7 @@
 
 ```yaml
 name: "Alejandro Cordero"
-role: "Software Engineering Student & Co-Founder @ SacorTech"
+role: "IT Engineering Student & Co-Founder @ SacorTech"
 location: "San Carlos, Costa Rica"
 focus: ["Full Stack Development", "Systems & Infrastructure", "Hardware Repair", "AI-assisted tooling"]
 ```
