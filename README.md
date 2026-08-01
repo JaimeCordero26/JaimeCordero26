@@ -1,7 +1,19 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:4C1D95,100:6D28D9&height=220&section=header&text=Alejandro%20Cordero&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Co-Founder%20@%20SacorTech&descAlignY=58&descAlign=50)
+███████╗ █████╗  ██████╗ ██████╗ ██████╗ ████████╗███████╗ ██████╗██╗  ██╗
+██╔════╝██╔══██╗██╔════╝██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝██╔════╝██║  ██║
+███████╗███████║██║     ██║   ██║██████╔╝   ██║   █████╗  ██║     ███████║
+╚════██║██╔══██║██║     ██║   ██║██╔══██╗   ██║   ██╔══╝  ██║     ██╔══██║
+███████║██║  ██║╚██████╗╚██████╔╝██║  ██║   ██║   ███████╗╚██████╗██║  ██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
 
+ ██████╗ ██████╗  █████╗ ███████╗ ██████╗ █████╗ ██╗   ██╗███╗   ██╗██████╗ ███████╗██████╗ 
+██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔═══██╗██╔══██╗██║   ██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
+██║     ██║   ██║███████║███████╗██║   ██║███████║██║   ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+██║     ██║   ██║██╔══██║╚════██║██║   ██║██╔══██║██║   ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+╚██████╗╚██████╔╝██║  ██║███████║╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██████╔╝███████╗██║  ██║
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Co-Founder+%40+SacorTech;Full+Stack+%2B+Systems+%2B+Hardware;Building+with+NixOS+%2B+Docker+%2B+Postgres" alt="Typing SVG" />
 
 ![Universidad Técnica Nacional](https://img.shields.io/badge/Universidad%20Técnica%20Nacional-Software%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
