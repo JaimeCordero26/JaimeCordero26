@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Co-Founder+%40+SacorTech;Full+Stack+%2B+Systems+%2B+Hardware;Building+with+NixOS+%2B+Cloudflare+%2B+Postgres" alt="Typing SVG" />
 
-![Universidad Técnica Nacional](https://img.shields.io/badge/Universidad%20Técnica%20Nacional-Software%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Universidad Técnica Nacional](https://img.shields.io/badge/Universidad%20Técnica%20Nacional-Software%20IT-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/San%20Carlos-Costa%20Rica-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sacortech.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sacortech.xyz)
